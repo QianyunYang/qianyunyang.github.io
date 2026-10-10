@@ -669,7 +669,7 @@ Hi, I am Qianyun Yang (杨茜云).
 
   <div class="lang-panel active" data-lang-panel="en" role="tabpanel">
     <div class="research-intro">
-      <p>Welcome to my homepage! I am a master's student in the <a href="https://www.sc.sdu.edu.cn">School of Software</a> at <a href="https://www.sdu.edu.cn">Shandong University</a>, under the supervision of Prof. <a href="https://liqiangnie.github.io/index.html">Liqiang Nie</a> and Dr. <a href="https://lee-zixu.github.io">Zixu Li</a>. My research interests span <strong>multimodal understanding and retrieval, heterogeneous vector search, evidence-driven agents, and AI security</strong>.</p>
+      <p>Welcome to my homepage! I am a master's student in the <a href="https://www.sc.sdu.edu.cn">School of Software</a> at <a href="https://www.sdu.edu.cn">Shandong University</a>, under the supervision of Prof. <a href="https://liqiangnie.github.io/index.html">Liqiang Nie</a> Prof. <a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm">Yupeng Hu</a>, and Dr. <a href="https://lee-zixu.github.io">Zixu Li</a>. My research interests span <strong>multimodal understanding and retrieval, heterogeneous vector search, evidence-driven agents, and AI security</strong>.</p>
       <p>My research connects multimodal learning with reliable systems: I work on composed image retrieval and robust vision-language representations, hybrid and heterogeneous ANN search, evidence-grounded Agent evaluation through trajectory compression, evidence routing, and grader design, as well as AI security and artifact elimination. Across these topics, I focus on representation robustness, retrieval quality, system efficiency, and verifiable evaluation.</p>
       <p>I also enjoy building systems beyond papers. My recent work includes the Huawei general vector-search collaboration, Alibaba agent-quality diagnostics, China Telecom data-infrastructure security, and multimodal retrieval research with collaborators from Shandong University.</p>
     </div>
@@ -677,7 +677,7 @@ Hi, I am Qianyun Yang (杨茜云).
 
   <div class="lang-panel" data-lang-panel="zh" role="tabpanel">
     <div class="research-intro">
-      <p>欢迎来到我的主页！我目前是<a href="https://www.sc.sdu.edu.cn">山东大学软件学院</a>硕士研究生，导师为 Prof. <a href="https://liqiangnie.github.io/index.html">Liqiang Nie</a>，并由 Dr. <a href="https://lee-zixu.github.io">Zixu Li</a> 共同指导。我的研究兴趣主要聚焦于<strong>多模态理解与检索、异构数据向量检索、证据驱动 Agent 推理与人工智能安全</strong>。</p>
+      <p>欢迎来到我的主页！我目前是<a href="https://www.sc.sdu.edu.cn">山东大学软件学院</a>硕士研究生，导师为 Prof. <a href="https://liqiangnie.github.io/index.html">Liqiang Nie</a> 和 Prof. <a href="https://faculty.sdu.edu.cn/huyupeng1/zh_CN/index.htm">Yupeng Hu</a>，并由 Mr. <a href="https://lee-zixu.github.io">Zixu Li</a> 共同指导。我的研究兴趣主要聚焦于<strong>多模态理解与检索、异构数据向量检索、证据驱动 Agent 推理与人工智能安全</strong>。</p>
       <p>我的研究将多模态学习与可信系统相结合，涉及组合图像检索与鲁棒视觉-语言表征、混合及异构 ANN 检索、通过轨迹压缩/证据路由/评分标准实现的证据驱动 Agent 评测，以及人工智能安全与生成伪影消除。我持续关注表征鲁棒性、检索质量、系统效率和可验证评测。</p>
       <p>除学术论文外，我也关注真实系统落地，近期参与了华为通用向量检索合作、阿里巴巴 Agent 质量诊断、中国电信数据基础设施安全，以及多模态检索方向的系列研究。</p>
     </div>
